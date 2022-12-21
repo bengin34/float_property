@@ -1,0 +1,115 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: brown;
+  float: left;
+  margin-right: 1rem;
+  margin-top: 1rem;
+}
+.boxx {
+  width: 100px;
+  height: 100px;
+  background-color: brown;
+  /* float:inline-end; */
+  float: right;
+  margin-right: 1rem;
+  margin-top: 1rem;
+}
+
+.span {
+  margin-left: 1rem;
+  margin-right: 425px;
+  display: inline-block;
+}
+
+.spen {
+  margin-right: 0px;
+  display: inline-block;
+}
+
+/* .box4 {
+  clear: both;
+} */
+
+.box1 {
+  background-color: yellow;
+}
+
+.box2 {
+  background-color: aqua;
+}
+
+.box3 {
+  background-color: orange;
+}
+
+.box4 {
+  clear: left;
+  background-color: gray;
+}
+
+.box5 {
+  clear: both;
+  background-color: coral;
+}
+
+.box6 {
+  background-color: pink;
+}
+.box7 {
+  clear: left;
+  background-color: deeppink;
+}
+
+.box8 {
+  clear: left;
+  background-color: aqua;
+}
+
+.box9 {
+  clear: right;
+  background-color: orange;
+}
+
+.box10 {
+  clear: left;
+  background-color: gray;
+}
+
+.box11 {
+  clear: left;
+  background-color: aqua;
+}
+
+.box12 {
+  clear: left;
+
+  background-color: pink;
+}
+
+.box13 {
+  clear: right;
+
+  background-color: brown;
+}
+.box14 {
+  clear: right;
+  background-color: orangered;
+}
+.box15 {
+  clear: right;
+  background-color: rebeccapurple;
+}
+.box16 {
+  clear: right;
+  background-color: darkgreen;
+}
+.box17 {
+  background-color: darkred;
+}
+.box18 {
+  background-color: navy;
+}
+.box19 {
+  background-color: palegreen;
+}
